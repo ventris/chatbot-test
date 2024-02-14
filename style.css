@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+li {
+    padding-top: 30px;
+}
+
+.sent{
+    text-align: end;
+    float: right;
+    width: auto;
+    max-width: 45%;
+}
+
+.green{
+    margin: 5px;
+    text-align: start;
+    width: auto;
+    padding: 10px;
+    background-color: #00ff00;
+}
+
+.recieved{
+    float: left;
+    width: 45%;
+    max-width: 45%;
+    background-color: red;
+
+}
+
+.red{
+    max-width: 45%;
+    margin: 5px;
+    text-align: start;
+    width: auto;
+    padding: 10px;
+    background-color: #ff0000;
+}
+
